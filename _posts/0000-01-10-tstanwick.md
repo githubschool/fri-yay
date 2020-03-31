@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "My image is a broken link!"
+title: "I always preferred the joker over the riddler!"
 ---
 
 Caption here
