@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "My image is a broken link!"
 ---
 
 Caption here
