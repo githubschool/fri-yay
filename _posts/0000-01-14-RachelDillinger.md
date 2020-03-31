@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Words"
+title: "Welcome to Rachel's slide deck!"
 ---
 
 Code and Play
