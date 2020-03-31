@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Sticking with the cat!"
+title: "Sticking with the Monkey Cat!"
 ---
 
 SteveCat- UI edit
