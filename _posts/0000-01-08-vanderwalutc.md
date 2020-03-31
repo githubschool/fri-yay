@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to Thomas's slide deck!"
+title: "Hello Octocats! Thomas is Here"
 ---
 
 Holy Octocat!
