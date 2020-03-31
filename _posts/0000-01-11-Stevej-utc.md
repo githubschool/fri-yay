@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Sticking with the cat!"
 ---
 
-SteveCat
+SteveCat- UI edit
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
